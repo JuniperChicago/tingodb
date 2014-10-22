@@ -1,4 +1,6 @@
 coverage
+/scratch
 node_modules
-npm-debug.log
 *.swp
+npm-debug.log
+/db
